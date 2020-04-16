@@ -1,1 +1,10 @@
 node_modules/
+.idea
+journal
+diagnostic.data
+_mdb_catalog.wt
+*.wt
+*.lock
+*.bson
+*.turtle
+WiredTiger
